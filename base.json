@@ -1,0 +1,11 @@
+{
+    "inCart": [
+        { "key": "1", "price": 1000, "quantity": 1, "text": "сосиска" },
+        { "key": "2", "price": 228, "quantity": 1, "text": "kai angel" }
+    ],
+    "deffered": [
+        { "key": "3", "price": 1488, "quantity": 1, "text": "dildo" },
+        { "key": "4", "price": 52, "quantity": 1, "text": "ocheinik" }
+    ],
+    "orders": []
+}
